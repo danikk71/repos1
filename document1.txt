@@ -1,2 +1,6 @@
 Hello world
 Goodbye!
+
+Hi
+HI
+Hi
